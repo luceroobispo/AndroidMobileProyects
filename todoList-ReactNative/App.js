@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <KeyboardAvoidingView 
-      behavior={Platform.OS === "ios" ? "padding" : null} 
+      behavior={Platform.OS === "android" ? "padding" : null} 
       style={styles.container}
     >
       <ScrollView contentContainerStyle={styles.scrollView}>
