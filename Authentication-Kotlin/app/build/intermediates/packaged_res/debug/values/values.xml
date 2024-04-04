@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow_dark">#F3CB19</color>
+    <color name="yellow_light">#FBF9C2</color>
+    <color name="yellow_medium">#FBEC52</color>
+    <string name="app_name">Authentication</string>
+    <style name="Base.Theme.Authentication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Authentication" parent="Base.Theme.Authentication"/>
+</resources>
