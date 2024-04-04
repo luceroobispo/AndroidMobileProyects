@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+color yellow_dark
+color yellow_light
+color yellow_medium
+drawable authentication_bg
+drawable baseline_lock_24
+drawable baseline_person_24
+drawable custome_edittext
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id loginButton
+id loginText
+id password
+id username
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Authentication
+style Theme.Authentication
+xml backup_rules
+xml data_extraction_rules
